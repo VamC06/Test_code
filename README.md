@@ -1,5 +1,5 @@
 # spring-boot-hello-world
-Development of "Hello World Rajesh" web application with Spring Boot
+Development of "Hello World" web application with Spring Boot
 
 1.	Go to Eclipse -> Help -> Market Place and search “Spring Tools” to install.
  
